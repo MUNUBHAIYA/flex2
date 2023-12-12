@@ -1,0 +1,16 @@
+OOP Marks
+Ali
+Quiz=10
+Assignment=6
+Sessional=22
+------------
+Ahmad
+Quiz=10
+Assignment=9
+Sessional=26
+------------
+Hassan
+Quiz=7
+Assignment=10
+Sessional=22
+------------

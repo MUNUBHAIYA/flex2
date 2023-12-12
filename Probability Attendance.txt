@@ -1,0 +1,4 @@
+Probability Attendance
+Ali=84 
+Ahmad=90
+Abdullah=75

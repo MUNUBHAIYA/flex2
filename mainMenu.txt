@@ -1,0 +1,8 @@
+---Welcome To Fast's Flex---
+---Main Menu---
+1- Enroll a student
+2- Course Registration
+3- Attendance
+4- Marks
+5- Course Withdraw
+6- Exit
